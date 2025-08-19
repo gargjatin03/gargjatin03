@@ -1,7 +1,10 @@
-<center> **Hi there 👋, I am Jatin Garg** </center> 
-<center> *A Passionate Frontend Developer | Data Analyst* </center>
+<div align="center">
 
-    
+# Hi there 👋, I am Jatin Garg
+### A Passionate Frontend Developer | Data Analyst
+
+</div>
+
 <br>
 
 ## 🚀 About Me:
