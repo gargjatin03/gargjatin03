@@ -1,11 +1,10 @@
    ## Hi there 👋, I am Jatin Garg
-
-<br>  
+   
 
    ### A Passionate Frontend Developer | Data Analyst
 
     
-<br> <br> 
+<br>
 
 ## 🚀 About Me:
 
@@ -13,7 +12,7 @@
 - 🌱 I’m learning advanced **frontend techniques** and **data visualization**  
 - 💬 Ask me about **JavaScript, React, Next.js, and data analytics**  
 
-<br><br>
+<br>
 
 
 
@@ -23,11 +22,13 @@
 
 <br> 
 
-![JavaScript](https://skillicons.dev/icons?i=js&size=40&name=true) ![Python](https://skillicons.dev/icons?i=python&size=40&name=true) ![React](https://skillicons.dev/icons?i=react&size=40&name=true)
+## 🛠️ Tech Stack
+
+![C++](https://skillicons.dev/icons?i=cpp&size=40&name=true) ![CSS3](https://skillicons.dev/icons?i=css&size=40&name=true) ![HTML5](https://skillicons.dev/icons?i=html&size=40&name=true) ![Python](https://skillicons.dev/icons?i=python&size=40&name=true) ![JavaScript](https://skillicons.dev/icons?i=js&size=40&name=true) ![GitHub Pages](https://skillicons.dev/icons?i=github&size=40&name=true) ![Node.js](https://skillicons.dev/icons?i=nodejs&size=40&name=true) ![React](https://skillicons.dev/icons?i=react&size=40&name=true) ![Next.js](https://skillicons.dev/icons?i=nextjs&size=40&name=true) ![MongoDB](https://skillicons.dev/icons?i=mongodb&size=40&name=true)
 
 
 
-<br> <br> 
+<br> 
 
 
 
@@ -37,13 +38,13 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&theme=radical)
 
 
-<br> <br> 
+<br> 
 
 
 ## 🎯 Pinned Projects:
 
 
-<br> <br> 
+<br> 
 
 🌐 Socials:
 
