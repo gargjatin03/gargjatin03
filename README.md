@@ -20,10 +20,11 @@
 
 
 
-## 📈 GitHub Stats: ![Most Used Languages]
+## 📈 GitHub Stats:
 
-[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gargjatin03)](https://github.com/gargjatin03/github-readme-stats)
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gargjatin03&show_icons=true&count_private=true&theme=radical)  
 
 
 ## 🎯 Pinned Projects:
