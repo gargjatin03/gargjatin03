@@ -1,7 +1,9 @@
    ## Hi there 👋, I am Jatin Garg
+
     
 
-   ### A Passionate Frontend Developer| Data Analyst
+   ### A Passionate Frontend Developer | Data Analyst
+
     
 
 ## 🚀 About Me:
@@ -11,9 +13,11 @@
 - 💬 Ask me about **JavaScript, React, Next.js, and data analytics**  
 
 
+
 ## 💻 Tech Stack: 
 
 ![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,solidity,mongodb,express)
+
 
 
 ## 📈 GitHub Stats: ![Most Used Languages]
@@ -25,10 +29,10 @@
 ## 🎯 Pinned Projects:
 
 
+
 🌐 Socials:
 
 [linkedin](https://www.linkedin.com/in/jatin-garg-165372179/)
-
 [Email](mailto:gargj968@gmail.com)
 
 
