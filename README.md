@@ -22,7 +22,7 @@
 
 ## 📈 GitHub Stats: ![Most Used Languages]
 
-(![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gargjatin03&show_icons=true&hide_title=true&count_private=true&theme=radical)
+[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gargjatin03)](https://github.com/gargjatin03/github-readme-stats)
 
 
 
