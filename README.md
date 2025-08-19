@@ -1,7 +1,5 @@
-<p align="center">
-  <h1>Hi there 👋, I am Jatin Garg</h1>
-  <h3>A Passionate Frontend Developer | Data Analyst</h3>
-</p>
+<center> **Hi there 👋, I am Jatin Garg** </center> 
+<center> *A Passionate Frontend Developer | Data Analyst* </center>
 
     
 <br>
