@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I am Jatin Garg
+# Hi👋, I'm Jatin Garg
 ### A Passionate Frontend Developer | Data Analyst
 
 </div>
@@ -49,8 +49,7 @@
 
 🌐 Socials:
 
-[linkedin](https://www.linkedin.com/in/jatin-garg-165372179/)
-
-[Email](mailto:gargj968@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 
