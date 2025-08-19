@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋, I am Jatin Garg
 
-<!--
-**gargjatin03/gargjatin03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Passionate Frontend Developer| Data Analyst
 
-Here are some ideas to get you started:
+## 🚀 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m **solidifying my skills in React and Next.js** to create modern, responsive, and high-performance web apps. I enjoy turning ideas into reality with clean code and insightful data analysis.  
+
+- 🔭 I’m currently working on personal web projects using **React** and **Next.js**  
+- 🌱 I’m learning advanced **frontend techniques** and **data visualization**  
+- 💬 Ask me about **JavaScript, React, Next.js, and data analytics**  
+
+## 💻 Tech Stack: ![Tech Stack](https://skillicons.dev/icons?i=c++,python,CSS3,js,ts,html,css,react,nextjs,mongodb)
+
+## 📈 GitHub Stats: ![Your GitHub Stats](![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gargjatin03&show_icons=true&hide_title=true&count_private=true&theme=radical)
+)
+
+## 🎯 Pinned Projects:
+
+🌐 Socials:
+[linkedin](https://www.linkedin.com/in/jatin-garg-165372179/)
+[Email](mailto:gargj968@gmail.com)
+
+
