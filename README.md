@@ -54,13 +54,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&theme=radical)
 
-<br> 
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukprabhakar&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
 
 <br>
 
@@ -73,7 +66,7 @@
 </a>
   
 <a href="mailto:gargj968@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mukesh.mmp1234@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/gargjatin03?t=kEmhMEBokp_hEsc3z0Aiow&s=09" target="_blank">
