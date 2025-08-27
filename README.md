@@ -23,9 +23,8 @@
 
 <img align="right" width="35%" src="https://raw.githubusercontent.com/rohit19060/rohit19060/master/animation_500_kxa883sd.gif" alt="Colorful Coding Illustration" />
 
-  <img align="right" width="35%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder" />
+  <img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" />
   
-  <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 <br>
 
