@@ -47,12 +47,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br> 
-<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Bʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
-</picture>
+<img align="left" alt="Skills Animation" src="/gargjatin03/gargjatin03/raw/main/Skills_Animation_White.gif" style="visibility: visible; max-width: 100%;">
 <br>
 
 # 📈 GitHub Stats:
