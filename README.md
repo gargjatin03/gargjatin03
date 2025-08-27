@@ -18,7 +18,10 @@
 
 <!--Night Owl image-->
 <div>
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_2.gif" width="200">
+
+<img align="right" width="35%" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Coding Dino" />
+
+  <img align="right" width="35%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder" />
   
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
