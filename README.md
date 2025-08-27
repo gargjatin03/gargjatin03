@@ -19,7 +19,7 @@
 <!--Night Owl image-->
 <div>
 
-<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" />
+<img align="right" width="35%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Exciting Coding" />
   
 </div>
 <br>
