@@ -19,7 +19,9 @@
 <!--Night Owl image-->
 <div>
 
-<img align="right" width="35%" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Coding Dino" />
+<img align="right" width="35%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Exciting Coding" />
+
+<img align="right" width="35%" src="https://raw.githubusercontent.com/rohit19060/rohit19060/master/animation_500_kxa883sd.gif" alt="Colorful Coding Illustration" />
 
   <img align="right" width="35%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder" />
   
