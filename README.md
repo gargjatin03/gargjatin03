@@ -21,8 +21,6 @@
 
 <img align="right" width="35%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Exciting Coding" />
 
-<img align="right" width="35%" src="https://raw.githubusercontent.com/rohit19060/rohit19060/master/animation_500_kxa883sd.gif" alt="Colorful Coding Illustration" />
-
   <img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding" />
   
 </div>
