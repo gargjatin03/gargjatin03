@@ -7,7 +7,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Mukesh Pal!
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Jatin Garg!
 </h1>
 
 ### A Passionate Frontend Developer | Data Analyst
@@ -18,7 +18,10 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
+  <img align="right" width="40%" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png">
+
 </div>
 <br>
 
@@ -47,11 +50,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br> 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mukprabhakar&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="mukprabhakar" style="padding-right:20px;" />
-</p>
-
+<picture>
+<img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+</picture>
 <br>
 
 # 📈 GitHub Stats:
