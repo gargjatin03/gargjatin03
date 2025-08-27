@@ -7,7 +7,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Jatin Garg!
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wave" width="30"/> Hi, I'm Jatin Garg!
 </h1>
 
 ### A Passionate Frontend Developer | Data Analyst
@@ -18,6 +18,8 @@
 
 <!--Night Owl image-->
 <div>
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_2.gif" width="200">
+  
   <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 <br>
