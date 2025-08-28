@@ -53,12 +53,12 @@
 <br>
 
 
-<h1 align="center"> 📈 GitHub Stats </h1>
-<div>
-<a>
-  href="https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&theme=radical"
-</a>
-</div>
+<h1> 📈 GitHub Stats </h1>
+
+<br>
+
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&theme=radical)
+
 <br>
 
 <!--Contact Section--> 
