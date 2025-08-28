@@ -53,15 +53,17 @@
 <br>
 
 
-<h2 align="center"> 📈 GitHub Stats </h2>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&theme=radical)
-
+<h1 align="center"> 📈 GitHub Stats </h1>
+<div>
+<a>
+  href="https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&theme=radical"
+</a>
+</div>
 <br>
 
 <!--Contact Section--> 
 
-<h2 align="center"> 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h1 align="center"> 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h1>
 <div align="center">
  <a href="https://www.linkedin.com/in/jatin-garg-165372179/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
