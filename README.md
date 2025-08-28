@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=1200&height=100&lines=Code+is+Life..&hearts;++;Web+Developer;Information+Technology+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3;" alt="Typing Animation">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=1200&height=100&lines=Code+is+Life..&hearts;++;Web+Developer;Data+Analyst;Information+Technology+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3;" alt="Typing Animation">
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-<!--Night Owl image-->
+<!--Coder gif-->
 <div>
 
 <img align="right" width="35%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Exciting Coding" />
@@ -52,10 +52,11 @@
 <img align="left" alt="Skills Animation" src="/gargjatin03/gargjatin03/raw/main/Skills_Animation_White.gif" style="visibility: visible; max-width: 100%;">
 <br>
 
-# 📈 GitHub Stats:
 
+<h2 align="center"> 📈 GitHub Stats </h2>
+<div align="centre">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&theme=radical)
-
+</div>
 
 <br>
 
