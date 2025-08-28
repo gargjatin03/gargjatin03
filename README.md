@@ -54,9 +54,8 @@
 
 
 <h2 align="center"> 📈 GitHub Stats </h2>
-<div align="centre">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&theme=radical)
-</div>
 
 <br>
 
