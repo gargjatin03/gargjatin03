@@ -19,7 +19,7 @@
 <!--Coder gif-->
 <div>
 
-<img align="right" width="35%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Exciting Coding" />
+<img align="right" width="30%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Exciting Coding" />
   
 </div>
 <br>
