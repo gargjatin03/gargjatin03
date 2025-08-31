@@ -69,16 +69,16 @@
 <h1 align="center"> 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h1>
 <div align="center">
  <a href="https://www.linkedin.com/in/jatin-garg-165372179/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+ </a>
   
-<a href="mailto:gargj968@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  mail style="margin-bottom: 5px;" />
-</a>
+ <a href="mailto:gargj968@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  mail style="margin-bottom: 5px;" />
+ </a>
 
-<a href="https://x.com/gargjatin03?t=kEmhMEBokp_hEsc3z0Aiow&s=09" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
+ <a href="https://x.com/gargjatin03?t=kEmhMEBokp_hEsc3z0Aiow&s=09" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+ </a>
 </div>
 <br/>
 
