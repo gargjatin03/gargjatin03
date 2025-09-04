@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wave" width="30"/> Hi, I'm Jatin Garg!
 </h1>
 
-### A Passionate Frontend Developer | Data Analyst
+### A Passionate Web Developer | Data Analyst
 
 </div>
 
