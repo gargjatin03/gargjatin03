@@ -60,11 +60,8 @@
 
 <br>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&exclude_repo=old-repo1,old-repo2&hide=HTML,Markdown&size_weight=0.5&count_weight=0.5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- ---
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&exclude_repo=old-repo1,old-repo2&hide=HTML,Markdown&size_weight=0.5&count_weight=0.5&theme=radical)](https://github.com/gargjatin03)
-
 
 
 <br>
