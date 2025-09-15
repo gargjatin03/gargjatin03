@@ -66,6 +66,11 @@
 
 <br>
 
+![](https://nirzak-streak-stats.vercel.app/?user=gargjatin03&theme=blue_navy&hide_border=true)
+
+<br/>
+
+
 <!--Contact Section--> 
 
 <h1 align="center"> 🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h1>
