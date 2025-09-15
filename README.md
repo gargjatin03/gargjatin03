@@ -64,7 +64,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gargjatin03&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" height="180px" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&exclude_repo=old-repo1,old-repo2&hide=HTML,Markdown&size_weight=0.5&count_weight=0.5&theme=radical&hide_border=true" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&exclude_repo=old-repo1,old-repo2&hide=HTML,Markdown&size_weight=0.5&count_weight=0.5&theme=radical&hide_border=true" alt="Top Languages" height="200px"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=gargjatin03&theme=blue_navy&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
