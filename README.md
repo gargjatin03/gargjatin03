@@ -62,14 +62,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&exclude_repo=old-repo1,old-repo2&hide=HTML,Markdown&size_weight=0.5&count_weight=0.5&theme=radical" 
-       alt="Top Languages" 
-       height="150px" 
-       style="margin-right: 20px;" />
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=gargjatin03&theme=blue_navy&hide_border=true" 
-       alt="GitHub Streak" 
-       height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&exclude_repo=old-repo1,old-repo2&hide=HTML,Markdown&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Languages" height="150px"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gargjatin03&theme=blue_navy&hide_border=true" alt="GitHub Streak" height="150px"/>
 </p>
 
 <br/>
