@@ -48,7 +48,8 @@
 ![Vite](https://img.shields.io/badge/Vite-18181B?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 <br> 
@@ -62,9 +63,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gargjatin03&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" height="180px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&exclude_repo=old-repo1,old-repo2&hide=HTML,Markdown&size_weight=0.5&count_weight=0.5&theme=radical&hide_border=true" alt="Top Languages" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&langs_count=10&exclude_repo=old-repo1,old-repo2&hide=HTML,Markdown&size_weight=0.5&count_weight=0.5&theme=radical&hide_border=true" alt="Top Languages" height="180px"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://nirzak-streak-stats.vercel.app/?user=gargjatin03&theme=blue_navy&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
