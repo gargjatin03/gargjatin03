@@ -69,7 +69,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=gargjatin03&theme=blue_navy&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
 
-| ![gargjatin03](https://github-readme-activity-graph.vercel.app/graph?username=gargjatin03&theme=react-dark) |
+ ![gargjatin03](https://github-readme-activity-graph.vercel.app/graph?username=gargjatin03&theme=react-dark) 
 
 <br/>
 
