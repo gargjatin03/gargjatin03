@@ -10,7 +10,16 @@
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wave" width="30"/> Hi, I'm Jatin Garg!
 </h1>
 
-### A Passionate Web Developer
+### Software Developer | Full Stack Developer
+
+<p align="center">
+  <a href="https://portfolio-site-three-olive.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-blue?style=for-the-badge"/>
+  </a>
+  <a href="mailto:gargj968@gmail.com">
+    <img src="https://img.shields.io/badge/📬%20Email%20Me-ffc0cb?style=for-the-badge"/>
+  </a>
+</p>
 
 </div>
 
