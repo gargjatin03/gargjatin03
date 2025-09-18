@@ -72,12 +72,15 @@
 
 <br>
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gargjatin03&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gargjatin03&theme=github_dark)
-
-
 <p align="center">
+  
+  Here’s an overview of my GitHub profile: 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gargjatin03&theme=github_dark" alt="GitHub Stats" style="vertical-align:middle; margin-right:10px;">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gargjatin03&theme=github_dark" alt="Top Languages" style="vertical-align:middle; margin-left:10px;">
+
   <img src="https://nirzak-streak-stats.vercel.app/?user=gargjatin03&theme=blue_navy&hide_border=true" alt="GitHub Streak" height="180px"/>
+  
 </p>
 
  ![gargjatin03](https://github-readme-activity-graph.vercel.app/graph?username=gargjatin03&theme=react-dark) 
