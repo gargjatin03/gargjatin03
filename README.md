@@ -74,7 +74,8 @@
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gargjatin03&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gargjatin03&theme=github_dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gargjatin03)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/gargjatin03?template=classic&languages=1&languages.ignored=html,css&languages.limit=6)
+
 
 
 
