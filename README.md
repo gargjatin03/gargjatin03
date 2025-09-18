@@ -73,8 +73,10 @@
 <br>
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gargjatin03&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gargjatin03&theme=github_dark)
-![Metrics](https://metrics.lecoq.io/gargjatin03?template=classic&languages=1&languages.ignored=html,css&languages.limit=6)
+
+![GitHub stats](https://vercel.com/gargjatin03s-projects/github-readme-stats/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://vercel.com/gargjatin03s-projects/github-readme-stats.vercel.app/api/top-langs/?username=gargjatin03&layout=compact&theme=radical)
 
 
 
