@@ -74,7 +74,6 @@
  
 <p align="center">
   
-  Here’s an overview of my GitHub profile: 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gargjatin03&theme=github_dark" alt="GitHub Stats">
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gargjatin03&theme=github_dark" alt="Top Languages">
