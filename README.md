@@ -71,13 +71,10 @@
 
 
 <br>
-
-<p align="center">
-  
+ 
   ![Metrics](https://metrics.lecoq.io/gargjatin03?template=classic&languages=1&isocalendar=1&stars=1&people=1&achievements=1)
 
-
-
+<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=gargjatin03&theme=blue_navy&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
 
