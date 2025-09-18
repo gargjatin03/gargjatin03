@@ -73,7 +73,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gargjatin03&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  ![Metrics](https://metrics.lecoq.io/YOUR_USERNAME?template=classic&languages=1&isocalendar=1&stars=1&people=1&achievements=1)
+
+
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=gargjatin03&theme=blue_navy&hide_border=true" alt="GitHub Streak" height="180px"/>
 </p>
