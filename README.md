@@ -73,7 +73,9 @@
 <br>
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gargjatin03&theme=github_dark)
-![Metrics](https://metrics.lecoq.io/gargjatin03?template=classic&languages=1&language=javascript,python,cpp,css)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gargjatin03&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gargjatin03&theme=github_dark)
+
 
 
 <p align="center">
