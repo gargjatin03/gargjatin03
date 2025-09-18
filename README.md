@@ -72,7 +72,7 @@
 
 <br>
  
-  ![Metrics](https://metrics.lecoq.io/gargjatin03?template=classic&languages=1&isocalendar=1&stars=1&people=1&achievements=1)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gargjatin03&theme=github_dark)
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=gargjatin03&theme=blue_navy&hide_border=true" alt="GitHub Streak" height="180px"/>
