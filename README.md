@@ -7,10 +7,10 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wave" width="30"/> Hi, I'm Jatin Garg!
+  Hi, <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wave" width="30"/> I'm Jatin Garg!
 </h1>
 
-### Software Developer | Full Stack Developer | Data Analyst
+### *Software Developer | Full Stack Developer | Data Analyst*
 
 <p align="center">
   <a href="https://portfolio-site-three-olive.vercel.app/" target="_blank">
